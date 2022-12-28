@@ -12,7 +12,7 @@ const Footer = ({}) => {
           Thanks for viewing my page!</h1>
           <div className="mt-10">
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
-              LET'S WORK TOGETHER
+              CANNOT WAIT TO WORK TOGETHER
             </h1>
             <div className="mt-10">
               <Socials />
